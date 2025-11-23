@@ -31,6 +31,5 @@ A reproducible, mathematically grounded framework for stiffness prediction
 in short fiber composites, implemented and validated on real industrial data.
 
 ## Code & Dataset:
-- dataset_fraunhofer/  -> Fraunhofer ITWM dataset
-- thesis_python/       -> All code used in the thesis
-                          Written independently by the author in 2022, without any AI assistance.
+- dataset_fraunhofer  -> Fraunhofer ITWM dataset
+- thesis_python       -> All code used in the thesis. Written independently by the author in 2022, without any AI assistance.
