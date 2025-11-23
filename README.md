@@ -1,4 +1,4 @@
-# Master Thesis Summary
+## Master Thesis Summary
 Mathematical Modeling for Short Fiber Reinforced Composites
 
 # Goal:
