@@ -15,8 +15,8 @@ Clear examples + figures to explain concepts.
 
 ## Chapter 3 (Main Contribution):
 Build a step-by-step computational pipeline:
- - Input: fiber orientation tensor + fiber volume fraction
- - Compute: stiffness tensor using 3D FEM + interpolation
+- Input: fiber orientation tensor + fiber volume fraction
+- Compute: stiffness tensor using 3D FEM + interpolation
 Completed an open topic from Jonathan et al. by integrating volume fraction.
 Includes detailed algorithm + visual workflow.
 
@@ -24,8 +24,13 @@ Includes detailed algorithm + visual workflow.
 Python implementation using Fraunhofer ITWM real data.
 Compared prismatic vs. tetrahedral FEM:
 - accuracy
-- computational efficiency
+- - computational efficiency
 
 ## Outcome:
 A reproducible, mathematically grounded framework for stiffness prediction
 in short fiber composites, implemented and validated on real industrial data.
+
+## Code & Dataset:
+- dataset_fraunhofer/  -> Fraunhofer ITWM dataset
+- thesis_python/       -> All code used in the thesis
+                          Written independently by the author in 2022, without any AI assistance.
